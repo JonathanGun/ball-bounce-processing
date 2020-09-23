@@ -7,6 +7,7 @@ int total = 0;
 int totaleffect = 0;
 
 void setup() {
+  fullScreen();
   noStroke();
 }
 
